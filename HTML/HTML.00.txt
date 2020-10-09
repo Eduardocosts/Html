@@ -1,0 +1,49 @@
+<html>
+		<head>
+		<title> Pagina web  </title>
+		</head>
+		
+		
+		<body bgcolor="LightGray">
+		<p id="italicparagraph">Treinando os comandos html com conteúdo!</p>
+		<p align="center"><img src= "Foto/Djavan.jpg" width=400 ">
+		<h2> Música: Oceano  </h2>			
+		<p><b>Compositor: Djvan</b></p>
+		</body>
+		
+		<body>
+		<hr>
+		<h2 align= "center"><i style= "border:2px solid slateBlue"> LETRA </i></h2>
+		<br>
+		
+		<font color= "red"><p align= "center">Assim que o dia amanheceu <br>Lá no mar alto da paixão <br>Dava pra ver o tempo ruir <br>Cadê você? Que solidão! <br>Esquecera de mim?</p>
+		
+		<p align= "center">Enfim, de tudo o que há na Terra <br>Não há nada em lugar nenhum <br>Que vá crescer sem você chegar <br>Longe de ti tudo parou <br>Ninguém sabe o que eu sofri</p>
+		
+		<p align= "center"><b>Amar é um deserto e seus temores <br>Vida que vai na sela dessas dores <br>Não sabe voltar, me dá teu calor</b></p>
+		
+		<p align= "center">Vem me fazer feliz porque eu te amo <br>Você deságua em mim, e eu, oceano <br>Me esqueço que amar é quase uma dor <br>Só sei viver se for por você!</p>
+		
+		<a href= "https://www.youtube.com/watch?v=2kqdlAYNEzk&ab_channel=DjavanVEVO" target="_blank"><p align="right"> Click aqui para ver o clipe da música (ao vivo).</font></p></a>
+		
+		</body>
+		
+		<body>
+		<hr>
+		<h2 align= "center">Músicas mais tocadas.</h2>
+		<ul>
+		<li> Se</li>			
+		<li> Eu te devoro</li>	
+		<li> Sina</li>			
+		<li> Encontrar-Te</li> 	
+		
+		
+		<a href="#top"><p align="center">Ir para cima</p></a>
+		<p align="center"><a href="https://djavan.com.br/">Site oficial do cantor</a></p>
+		
+		<p align="right"><strike>Edu_costs</strike></p>
+		
+		</body>
+
+</html>
+</html>

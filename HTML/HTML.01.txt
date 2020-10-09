@@ -1,0 +1,45 @@
+<html>
+
+	<head>
+	<title>HINO SPFC</title>
+	</head>
+	
+	<body align="center" bgcolor="Aqua">
+	<hr>
+	<p><font size= "7" face="Georgia, Arial" color="maroon" >H</font>ino São Paulo FC</p>
+	
+		<img src="Foto/tenor.gif" alt="tenor.com" style="width:200px;height:100px;">
+		
+		
+		<p><font face="Bookman Old Style, Book Antiqua, Garamond"><strong>Salve o tricolor paulista<br>
+		Amado clube Brasileiro<p> 
+		Tu és forte, tu és grande<br>
+		Dentre os grandes, és o primeiro<br>
+		Tu és forte, tu és grande<br>
+		Dentre os grandes, és o primeiro<br>
+		<br>
+		Ó tricolor, clube bem amado<br>
+		As tuas glórias, vêm do passado<br>
+		Ó tricolor, clube bem amado<br>
+		As tuas glórias, vêm do passado<br>
+		<b>(2x)</b><br>
+		<br>
+		São teus guias brasileiros<br>
+		Que te amam eternamente<br>
+		De São Paulo tens o nome<br>
+		Que ostenta dignamente<br>
+		<br>
+		De São Paulo tens o nome<br>
+		Que ostenta dignamente<br>
+		Ó tricolor, clube bem amado<br>
+		As tuas glórias, vêm do passado<br>
+		Ó tricolor, clube bem amado<br>
+		As tuas glórias, vêm do passado.</strong></font></p>
+		<p>&#8212; &nbsp;&nbsp;&nbsp;&nbsp; &#8212;<p>
+		<a href="#top">Ir para cima</a>
+		<hr>
+		<a href="https://www.youtube.com/watch?v=CI2Nz_3gSNI&ab_channel=golaudio" target="_blank">link da música.</a>&nbsp;&nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp;&nbsp
+		<a href="http://www.saopaulofc.net/spfc" target="_blank" title="São Paulo F.C">Site oficial São Paulo</a>
+	</body>
+
+</html>
